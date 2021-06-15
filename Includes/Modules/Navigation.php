@@ -1,4 +1,4 @@
-<nav class="navbar" role="navigation" aria-label="main navigation" style="background-color:#333333">
+<nav class="navbar" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
     <!-- navbar items, navbar burger... -->
   </div>
