@@ -4,21 +4,23 @@
 		<title>Synth Apparel</title>
 
 		<!-- Meta Tags -->
+		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
 		<!-- Stylesheets -->
 		<link rel="stylesheet" type="text/css" href="node_modules/bulma/bulma.min.css" />
 	</head>
 	<body>
-		<section class="section">
-			<div class="container">
-				<h1 class="title">
-					Hello World
-				</h1>
-				<p class="subtitle">
-					My first website with <strong>Bulma</strong>!
-				</p>
-			</div>
-		</section>
+		<div class="buttons">
+			<button class="button is-primary">Primary</button>
+			<button class="button is-link">Link</button>
+		</div>
+
+		<div class="buttons">
+			<button class="button is-info">Info</button>
+			<button class="button is-success">Success</button>
+			<button class="button is-warning">Warning</button>
+			<button class="button is-danger">Danger</button>
+		</div>
 	</body>
 </html>
