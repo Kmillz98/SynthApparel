@@ -1,6 +1,8 @@
 <nav class="navbar" role="navigation" aria-label="main navigation" id="mainNavbar">
   <div class="navbar-brand">
-    <!-- navbar items, navbar burger... -->
+    <a class="nav-item" id="navbarLogo">
+      <img src="/Images/Nav-logo.png" alt="Synth Apparel" id="navbarIcon" />
+    </a>
   </div>
   <div class="navbar-menu" id="mainNavMenu">
     <a class="navbar-item" href="/index.php">Home</a>
