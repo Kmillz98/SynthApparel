@@ -1,3 +1,3 @@
-<?php include_once("Header.php"); ?>
+<?php include_once("Includes/Modules/Header.php"); ?>
 
-<?php include_once("Footer.php"); ?>
+<?php include_once("Includes/Modules/Footer.php"); ?>
