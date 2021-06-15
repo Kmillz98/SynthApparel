@@ -2,7 +2,9 @@
   <div class="navbar-brand">
     <!-- navbar items, navbar burger... -->
   </div>
-  <div class="navbar-menu">
-    <a class="navbar-link">Home</a>
+  <div class="navbar-menu" id="main-navigation">
+    <a class="navbar-link" href="/index.php">Home</a>
+    <a class="navbar-link" href="#">T-Shirts</a>
+
   </div>
 </nav>
