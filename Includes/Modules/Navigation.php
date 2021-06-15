@@ -3,8 +3,8 @@
     <!-- navbar items, navbar burger... -->
   </div>
   <div class="navbar-menu" id="main-navigation">
-    <a class="navbar-link" href="/index.php">Home</a>
-    <a class="navbar-link" href="#">T-Shirts</a>
+    <a class="navbar-item" href="/index.php">Home</a>
+    <a class="navbar-item" href="#">T-Shirts</a>
 
   </div>
 </nav>
