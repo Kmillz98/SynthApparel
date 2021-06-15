@@ -8,7 +8,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
 		<!-- Stylesheets -->
-		<link rel="stylesheet" type="text/css" href="node_modules/bulma/bulma.min.css" />
+		<link rel="stylesheet" type="text/css" href="node_modules/bulma/css/bulma.min.css" />
 	</head>
 	<body>
 		<div class="buttons">
