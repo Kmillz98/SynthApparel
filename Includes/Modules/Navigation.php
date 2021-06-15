@@ -3,8 +3,6 @@
     <!-- navbar items, navbar burger... -->
   </div>
   <div class="navbar-menu">
-    <div class="navbar-start">
-      <a class="navbar-link">Home</a>
-    </div>
+    <a class="navbar-link">Home</a>
   </div>
 </nav>
