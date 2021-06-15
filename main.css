@@ -1,11 +1,24 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+/* Navigation */
 #mainNavbar {
   background-color: #333333;
 }
 
 #mainNavbar a {
   color:white;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+#mainNavbar a:hover {
+  transition: 0.2s ease-in-out;
+  background-color: lightslategray;
 }
 
 #navbarIcon {
+  width: 60px;
+  height: 60px;
   color: white;
+  font-family: 'Roboto Condensed', sans-serif;
 }
