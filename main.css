@@ -22,3 +22,8 @@
   color: white;
   font-family: 'Roboto Condensed', sans-serif;
 }
+
+#landingHero {
+  background-image: image("/Images/Hero-Image");
+  overflow: none;
+}
