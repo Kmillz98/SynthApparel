@@ -45,3 +45,9 @@
   transition: 0.2s ease-in-out;
   
 }
+
+#main-product-image {
+  width: 400px;
+  height:400px;
+  background-color: grey;
+}
