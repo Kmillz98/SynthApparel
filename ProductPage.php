@@ -2,7 +2,7 @@
 <?php include_once("Includes/Modules/Navigation.php"); ?>
 
 <!-- Content -->
-<div class="columns">
+<div class="columns" id="prodPageColumns">
   <div class="column is-narrow">
     <img class="main-product-img" src="/Images/Nav-logo.png" />
   </div>
