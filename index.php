@@ -8,7 +8,7 @@
 <section class="hero is-large is-link" id="landingHero">
   <div class="hero-body">
     <center>
-      <button class="button is-primary">Shop Now</button>
+      <button class="button" id="showNow">Shop Now</button>
     </center>
   </div>
 </section>
