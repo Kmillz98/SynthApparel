@@ -51,9 +51,12 @@
 .main-product-img {
   width: 400px;
   height:400px;
-  background-color: grey;
 }
 
 #prodPageColumns {
   margin: 25px;
+}
+
+.product-title {
+  font-family: 'Roboto Condensed', sans-serif;
 }
