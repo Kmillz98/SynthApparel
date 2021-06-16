@@ -4,7 +4,7 @@
 <!-- Content Goes Here -->
 
 <!-- Jumbotron -->
-<section="hero is-primary is-medium">
+<section="hero is-medium is-link">
   <div class="hero-body">
     <p class="title">
       Medium hero
