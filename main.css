@@ -28,6 +28,7 @@
   background-size: cover;
   background-repeat: none;
   overflow: hidden;
+  max-width: 100%;
 }
 
 #shopNow {
