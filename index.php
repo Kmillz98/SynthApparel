@@ -4,7 +4,7 @@
 <!-- Content Goes Here -->
 
 <!-- Jumbotron -->
-<section class="hero is-large is-link" id="landingHer">
+<section class="hero is-large is-link" id="landingHero">
   <div class="hero-body">
 
   </div>
