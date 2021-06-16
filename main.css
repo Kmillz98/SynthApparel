@@ -59,4 +59,14 @@
 
 .product-title {
   font-family: 'Roboto Condensed', sans-serif;
+  font-size: 50px;
+  font-weight: bolder;
+}
+
+#sizeInfoHeading, #sizeInfo {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+#sizeInfoHeading {
+  color: rgb(71, 104, 167);
 }
