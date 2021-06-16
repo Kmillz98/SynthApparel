@@ -36,10 +36,11 @@
   color: white;
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 38px;
+  box-shadow: 4px 4px 8px black;
 }
 
 #shopNow:hover {
   background-color:#6aab94;
   transition: 0.2s ease-in-out;
-  box-shadow: 10px 10px 3px black;
+  
 }
