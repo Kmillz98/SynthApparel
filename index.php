@@ -6,12 +6,7 @@
 <!-- Jumbotron -->
 <section class="hero is-medium" id="landingHero">
   <div class="hero-body">
-    <p class="title">
-      Medium hero
-    </p>
-    <p class="subtitle">
-      Medium subtitle
-    </p>
+
   </div>
 </section>
 
