@@ -4,7 +4,7 @@
 <!-- Content -->
 <div class="columns">
   <div class="column is-narrow">
-    <img class="main-product-img" src="" />
+    <img class="main-product-img" src="/Images/Nav-logo.png" />
   </div>
 </div>
 <?php include_once("Includes/Modules/Footer.php"); ?>
