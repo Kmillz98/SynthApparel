@@ -31,8 +31,14 @@
 }
 
 #shopNow {
-  background-color:darkslategrey;
+  background-color:#528774;
+  border: 1px solid #528774;
   color: white;
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 38px;
+}
+
+#shopNow:hover {
+  background-color:#6aab94;
+  transition: 0.2s ease-in-out;
 }
