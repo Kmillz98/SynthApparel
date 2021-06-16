@@ -32,6 +32,7 @@
 Please note: measurements can vary within 2.5cm, this is within our tolerance.  
       </p>
       <!-- Purchase Item Columns -->
+      <div class="h-line"></div>
       <div class="columns">
         <!-- Product Size -->
         <div class="column is-narrow">

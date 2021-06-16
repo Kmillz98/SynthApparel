@@ -1,6 +1,11 @@
 /* Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
 
+/* General Classes */
+.h-line {
+  border-bottom: 1px solid gainsboro;
+}
+
 /* Navigation */
 #mainNavbar {
   background-color: #333333;
