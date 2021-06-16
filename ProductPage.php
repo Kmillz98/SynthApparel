@@ -34,7 +34,7 @@ Please note: measurements can vary within 2.5cm, this is within our tolerance.
       <!-- Purchase Item Columns -->
       <div class="columns">
         <!-- Product Size -->
-        <div class="column">
+        <div class="column is-narrow">
           <div class="select">
             <select id="productSize">
               <option>X Small</option>
@@ -47,12 +47,12 @@ Please note: measurements can vary within 2.5cm, this is within our tolerance.
           </div>
         </div>
         <!-- Quantity -->
-        <div class="column">
+        <div class="column is-narrow">
           <div class="control">
             <input type="number" class="input" placeholder="Quantity" id="quantity" />
           </div>
         </div>
-        <div class="column">
+        <div class="column is-narrow">
           <button class="button submit">Add To Card</button>
         </div>
       </div>
