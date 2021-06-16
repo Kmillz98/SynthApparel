@@ -46,7 +46,7 @@
   
 }
 
-#main-product-image {
+.main-product-image {
   width: 400px;
   height:400px;
   background-color: grey;
