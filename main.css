@@ -25,6 +25,7 @@
 
 #landingHero {
   background-image: url("/Images/Hero-Image.png") !important;
-  background-size: contain;
+  background-size: cover;
+  background-repeat: none;
   overflow: hidden;
 }
