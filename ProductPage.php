@@ -60,4 +60,6 @@ Please note: measurements can vary within 2.5cm, this is within our tolerance.
     </div>
   </div>
 </div>
+
+<div class="h-line"></div>
 <?php include_once("Includes/Modules/Footer.php"); ?>
